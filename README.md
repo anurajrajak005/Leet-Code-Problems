@@ -19,9 +19,18 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
