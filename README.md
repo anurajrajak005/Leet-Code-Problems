@@ -8,6 +8,7 @@
 | [0175-combine-two-tables](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0620-not-boring-movies) |
