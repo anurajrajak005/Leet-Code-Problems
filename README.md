@@ -14,6 +14,7 @@
 | [0620-not-boring-movies](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/anurajrajak005/SQL-leet-code/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/anurajrajak005/SQL-leet-code/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/anurajrajak005/SQL-leet-code/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/1174-immediate-food-delivery-ii) |
 | [1211-queries-quality-and-percentage](https://github.com/anurajrajak005/python-sql-DSA/tree/master/1211-queries-quality-and-percentage) |
