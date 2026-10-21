@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
