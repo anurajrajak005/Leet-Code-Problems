@@ -40,6 +40,7 @@
 | ------- |
 | [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
