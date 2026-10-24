@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0069-sqrtx) |
+| [2409-count-days-spent-together](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/2409-count-days-spent-together) |
 ## Newton's Method
 |  |
 | ------- |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
