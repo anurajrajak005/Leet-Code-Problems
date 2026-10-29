@@ -8,6 +8,7 @@
 | [0175-combine-two-tables](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0550-game-play-analysis-iv) |
