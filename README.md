@@ -46,6 +46,7 @@
 | [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0055-jump-game) |
+| [0189-rotate-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [3046-split-the-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [2409-count-days-spent-together](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/2409-count-days-spent-together) |
 ## Newton's Method
 |  |
