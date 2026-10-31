@@ -46,6 +46,7 @@
 | [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0912-sort-an-array) |
 | [3046-split-the-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/3046-split-the-array) |
@@ -58,11 +59,13 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0912-sort-an-array) |
 ## Math
 |  |
