@@ -22,6 +22,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/anurajrajak005/SQL-leet-code/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/1174-immediate-food-delivery-ii) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/anurajrajak005/python-sql-DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/anurajrajak005/SQL-leet-code/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/anurajrajak005/SQL-leet-code/tree/master/1280-students-and-examinations) |
