@@ -125,4 +125,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3133-minimum-array-end](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/3133-minimum-array-end) |
 <!---LeetCode Topics End-->
