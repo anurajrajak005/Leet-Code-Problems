@@ -129,4 +129,12 @@
 |  |
 | ------- |
 | [3133-minimum-array-end](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/3133-minimum-array-end) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
