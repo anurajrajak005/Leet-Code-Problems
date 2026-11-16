@@ -53,6 +53,7 @@
 | [0035-search-insert-position](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0912-sort-an-array) |
 | [3046-split-the-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/3046-split-the-array) |
@@ -98,6 +99,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [3046-split-the-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/3046-split-the-array) |
 ## Counting
 |  |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
