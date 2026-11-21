@@ -54,6 +54,7 @@
 | [0055-jump-game](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0912-sort-an-array) |
 | [3046-split-the-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/3046-split-the-array) |
@@ -133,6 +134,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0136-single-number) |
 | [3133-minimum-array-end](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/3133-minimum-array-end) |
 ## Linked List
 |  |
