@@ -57,6 +57,7 @@
 | [0136-single-number](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0912-sort-an-array) |
+| [2418-sort-the-people](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [3046-split-the-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
@@ -75,6 +76,7 @@
 | [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0912-sort-an-array) |
+| [2418-sort-the-people](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -98,10 +100,12 @@
 | ------- |
 | [1507-reformat-date](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/1507-reformat-date) |
 | [2409-count-days-spent-together](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/2409-count-days-spent-together) |
+| [2418-sort-the-people](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [2418-sort-the-people](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/2418-sort-the-people) |
 | [3046-split-the-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/3046-split-the-array) |
 ## Counting
 |  |
