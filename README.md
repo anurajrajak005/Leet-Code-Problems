@@ -56,6 +56,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0912-sort-an-array) |
 | [2418-sort-the-people](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/2418-sort-the-people) |
@@ -71,6 +72,7 @@
 | [0015-3sum](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/anurajrajak005/Leet-Code-Problems/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
